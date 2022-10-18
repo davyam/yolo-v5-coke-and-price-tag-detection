@@ -1,0 +1,38 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# API keys
+api.key
+
+# YOLOv5
+yolov5/*.yaml
+yolov5/*.py
+yolov5/*.ipynb
+yolov5/*.cfg
+yolov5/*.txt
+yolov5/*.md
+yolov5/*.pt
+yolov5/LICENSE
+yolov5/.git*
+yolov5/.docker*
+
+**/__pycache__
+**/utils
+**/models
+**/classify
+**/segment
+**/test
+**/valid
+**/train
+**/wandb
+**/.github
+**/DISABLED*
+**/data/hyps/*
+**/data/images
+**/data/scripts
+**/data/*.yaml
+**/coke-and-price-tag*
+
+**/yolo-v5-coke-and-price-tag-dataset*
+
+!yolov5/data/hyps/hyp.custom.yaml
