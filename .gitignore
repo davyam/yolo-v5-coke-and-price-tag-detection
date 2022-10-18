@@ -32,7 +32,6 @@ yolov5/.docker*
 **/data/scripts
 **/data/*.yaml
 **/coke-and-price-tag*
-
 **/yolo-v5-coke-and-price-tag-dataset*
 
 !yolov5/data/hyps/hyp.custom.yaml
